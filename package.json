@@ -1,9 +1,11 @@
 {
   "name": "jest-test",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch *.js"
   },
   "repository": {
     "type": "git",
@@ -15,6 +17,5 @@
   "bugs": {
     "url": "https://github.com/jmonto55/Jest-Test/issues"
   },
-  "homepage": "https://github.com/jmonto55/Jest-Test#readme",
-  "description": ""
+  "homepage": "https://github.com/jmonto55/Jest-Test#readme"
 }
